@@ -1,0 +1,12 @@
+C:\Users\Desktop\C#PROJ\EcommerceProject\ShoppingCartPresentations\bin\Debug\net8.0\ShoppingCartPresentations.deps.json
+C:\Users\Desktop\C#PROJ\EcommerceProject\ShoppingCartPresentations\bin\Debug\net8.0\ShoppingCartPresentations.dll
+C:\Users\Desktop\C#PROJ\EcommerceProject\ShoppingCartPresentations\bin\Debug\net8.0\ShoppingCartPresentations.pdb
+C:\Users\Desktop\C#PROJ\EcommerceProject\ShoppingCartPresentations\obj\Debug\net8.0\ShoppingCartPresentations.csproj.AssemblyReference.cache
+C:\Users\Desktop\C#PROJ\EcommerceProject\ShoppingCartPresentations\obj\Debug\net8.0\ShoppingCartPresentations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\C#PROJ\EcommerceProject\ShoppingCartPresentations\obj\Debug\net8.0\ShoppingCartPresentations.AssemblyInfoInputs.cache
+C:\Users\Desktop\C#PROJ\EcommerceProject\ShoppingCartPresentations\obj\Debug\net8.0\ShoppingCartPresentations.AssemblyInfo.cs
+C:\Users\Desktop\C#PROJ\EcommerceProject\ShoppingCartPresentations\obj\Debug\net8.0\ShoppingCartPresentations.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\C#PROJ\EcommerceProject\ShoppingCartPresentations\obj\Debug\net8.0\ShoppingCartPresentations.dll
+C:\Users\Desktop\C#PROJ\EcommerceProject\ShoppingCartPresentations\obj\Debug\net8.0\refint\ShoppingCartPresentations.dll
+C:\Users\Desktop\C#PROJ\EcommerceProject\ShoppingCartPresentations\obj\Debug\net8.0\ShoppingCartPresentations.pdb
+C:\Users\Desktop\C#PROJ\EcommerceProject\ShoppingCartPresentations\obj\Debug\net8.0\ref\ShoppingCartPresentations.dll
